@@ -70,7 +70,10 @@ There are two voltage levels used in this robot. They are 48V and 24V. The 48V i
 - 1 x BLDC Electronic Speed Controller
 - 2 x 30A relays
 - 2 x Solid state relays
-THe code is for the robot automation is provided above.
+- 15 x Status LEDs
+- 2 x Cooling fans
+  
+The code for the robot automation is provided above.
 
 ---
 
