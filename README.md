@@ -20,7 +20,7 @@ a safer and more efficient solution for maintaining and monitoring the switchyar
 
 1. Mechanical Design
 2. Electrical System Design
-3. Microcontroller Code
+3. Electronics
 4. Demonstration Video
 
 ---
@@ -62,8 +62,14 @@ There are two voltage levels used in this robot. They are 48V and 24V. The 48V i
 
 ---
 
-## Microcontroller Code
-
+## Electronics
+#### Electronic Components used:
+- 1 x Arduino MEGA (Microcontroller)
+- 3 x MDDS10 10A Motor Drivers
+- 1 X MDDS20 20A Motor Driver
+- 1 x BLDC Electronic Speed Controller
+- 2 x 30A relays
+- 2 x Solid state relays
 THe code is for the robot automation is provided above.
 
 ---
