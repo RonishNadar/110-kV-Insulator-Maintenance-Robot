@@ -21,6 +21,7 @@ a safer and more efficient solution for maintaining and monitoring the switchyar
 1. Mechanical Design
 2. Electrical System Design
 3. Microcontroller Code
+4. Demonstration Video
 
 ---
 
@@ -64,3 +65,9 @@ There are two voltage levels used in this robot. They are 48V and 24V. The 48V i
 ## Microcontroller Code
 
 THe code is for the robot automation is provided above.
+
+---
+
+## Demonstration Video
+
+https://drive.google.com/file/d/1-Gmm6x90a8_TGburrRU00tzISHL-mVDY/view?usp=sharing
